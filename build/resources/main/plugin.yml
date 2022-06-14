@@ -1,0 +1,6 @@
+name: HeadDrops
+version: 1.0.0
+api-version: 1.19
+main: com.nelson131.headdrops.HeadDrops
+description: paper plugin to drop head after killing
+author: nelson131
